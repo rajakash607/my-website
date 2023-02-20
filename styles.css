@@ -32,9 +32,9 @@ body{
     height: 10%;
 }
 .image{
-    position: absolute;
-    top: 25%;
-    left: 15%;
+    position: relative;
+    bottom:23em;
+    right: 50em;
 }
 .img{
     float: left;
