@@ -20,21 +20,21 @@ body{
     font-size: 2em;
 }
 .first-cloud{
-    position: absolute;
-    top: 14%;
-    right: 14%;
-    height: 10%;
+    position: relative;
+    bottom: 25em;
+    left: 1em;
+    height: 3em;
 }
 .second-cloud{
-    position: absolute;
-    bottom: 20%;
-    left: 4%;
-    height: 10%;
+    position: relative;
+    bottom: 15em;
+    right: 52em;
+    height: 3rem;
 }
 .image{
     position: relative;
     bottom:23em;
-    right: 50em;
+    right: 60em;
 }
 .img{
     float: left;
